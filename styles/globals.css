@@ -14,3 +14,15 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.button {
+  cursor: pointer;
+}
+
+@font-face {
+  font-family: 'NeoSans';
+  src: url('../asset/NeoSans/NeoSansProLight.OTF');
+  src: url('../asset/NeoSans/NeoSansProMedium.OTF');
+  font-weight: 400;
+  font-style: normal;
+}
